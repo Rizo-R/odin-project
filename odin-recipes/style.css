@@ -1,0 +1,27 @@
+.headline,
+.list,
+.section-header {
+    background-color: rgb(245, 236, 228);
+}
+
+.section-header,
+.list {
+    font-family: "Lucida Handwriting", "Georgia", "Garamond", "Times New Roman", Verdana ;
+}
+
+.headline {
+    color: rgb(2, 91, 170);
+    font-size: 48px;
+    font-family: "Brush Script MT", "Lucida Handwriting", Tahoma, serif;
+}
+
+.section-header {
+    color: rgb(15, 38, 170);
+    font-size: 36px;
+}
+
+.list {
+    color: black;
+    font-size: 20px;
+}
+
